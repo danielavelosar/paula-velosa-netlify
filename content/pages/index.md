@@ -6,25 +6,21 @@ sections:
     type: section_hero
     title: 'Hi!, I''m Paula.'
     actions:
-      - label: Twitter
-        url: 'https://twitter.com/pvelosar'
+      
+      - label: Github
+        url: 'https://github.com/danielavelosar'
         style: icon
-        icon: twitter
+        icon: github
+        new_window: true
+      - label: LinkedIn
+        url: 'https://www.linkedin.com/in/danielavelosa/'
+        style: icon
+        icon: linkedin
         new_window: true
       - label: Instagram
         url: 'https://www.instagram.com/danielavelosar'
         style: icon
         icon: instagram
-        new_window: true
-      - label: Github
-        url: 'https://github.com/pvelosa'
-        style: icon
-        icon: github
-        new_window: true
-      - label: LinkedIn
-        url: 'https://www.linkedin.com/in/paula-daniela-velosa-romero-4392821ab/'
-        style: icon
-        icon: linkedin
         new_window: true
   - section_id: latest-projects
     type: section_portfolio

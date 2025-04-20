@@ -37,6 +37,7 @@
     },
     "footer": {
         "has_social": true,
+        
         "social_links": [
             {
                 "label": "Twitter",
@@ -54,19 +55,20 @@
             },
             {
                 "label": "Github",
-                "url": "https://github.com/pvelosa",
+                "url": "https://github.com/danielavelosar",
                 "style": "icon",
                 "icon": "github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/paula-daniela-velosa-romero-4392821ab/",
+                "url": "https://www.linkedin.com/in/danielavelosa/",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
             }
         ]
+        
     },
     "domain": "https://pvelosa.netlify.app",
     "favicon": "/images/Logo version 1.png"
