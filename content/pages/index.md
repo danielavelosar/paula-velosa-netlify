@@ -31,7 +31,7 @@ sections:
     view_all_url: portfolio
   - section_id: latest-posts
     type: section_posts
-    title: Data journaling
+    title: Blog
     posts_number: 3
     col_number: three
     actions:

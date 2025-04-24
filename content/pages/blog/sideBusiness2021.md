@@ -4,7 +4,8 @@ subtitle: My investigation in what side hustle to start if you enjoy programming
 excerpt: >-
   I decided to try my hand at building a side hustle on my own. This is a list
   of possible sources of income I have created based on my research and personal
-  thoughts.
+  thoughts
+  .
 date: '2021-08-04'
 thumb_image_alt: A white gamepad on a green background
 image: /images/575c181079f995c6f5f964c9490dacb8.jpg
